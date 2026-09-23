@@ -1,6 +1,6 @@
 # Techno-Economic Application Frameworks for BESS
 
-This repository contains the source code for the paper *"Techno-Economic Application Frameworks for Battery Energy Storage Systems (BESS) in East Africa's Industrial and Renewable Energy Sectors"*. 
+This repository contains the source code for the paper *"Techno-Economic Application Frameworks for Battery Energy Storage Systems (BESS) in East Africa's Industrial Energy Sectors"*. 
 
 It features `bess_feasibility.py`, a self-contained, object-oriented Python algorithm designed to evaluate the financial and operational viability of BESS. The model calculates 10-year discounted cash flows, Levelized Cost of Storage (LCOS), and unified sizing without relying on computationally burdensome 8,760-hour time-series datasets.
 
